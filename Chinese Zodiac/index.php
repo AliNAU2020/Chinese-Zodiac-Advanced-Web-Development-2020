@@ -1,6 +1,6 @@
 <?php include("includes/inc_site_counter.php"); ?>
 
-<?php include("inclues/inc_banner_display.php"); ?>
+<?php include("includes/inc_banner_display.php"); ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 http://www.w3.org/TR/xhtmll/DTD/xhtml-strict.dtd">
